@@ -8,18 +8,16 @@ It's a creative tool built for **experimentation**, **imagination**, and showcas
 
 🌐 Try it here: [imgBantu Live App](https://studio--imagebantu-krhvj.us-central1.hosted.app/)
 
-🌐 **Live Demo**: [imgBantu Studio](https://studio--imagebantu-krhvj.us-central1.hosted.app/)
-
 ---
 
-## 🚀 Features
+## ✨ Features
 
 - ✅ Clean and intuitive UI
-- 🧠 AI-enhanced image processing *(if supported)*
-- 📷 Upload, preview, and process images in real-time
-- 🔄 Image format conversion and optimization
-- 🖼️ Responsive design for all screen sizes
-- ☁️ Firebase App Hosting
+- 🧠 AI-powered image generation from text prompts
+- ⚡ Real-time image rendering with instant feedback
+- 📤 Simple prompt submission and instant results
+- 🖼️ Fully responsive design for all screen sizes
+- ☁️ Hosted using Firebase App Hosting
 
 ---
 
