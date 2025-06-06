@@ -2,15 +2,15 @@
   "name": "nextn",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev --turbopack -p 9002",
-    "genkit:dev": "genkit start -- tsx src/ai/dev.ts",
-    "genkit:watch": "genkit start -- tsx --watch src/ai/dev.ts",
-    "build": "npm run genkit:dev && npm run build",
-    "start": "npm run genkit:dev && npm run start",
-    "lint": "next lint",
-    "typecheck": "tsc --noEmit"
-  },
+"scripts": {
+  "dev": "next dev --turbopack -p 9002",
+  "genkit:dev": "genkit start -- tsx src/ai/dev.ts",
+  "genkit:watch": "genkit start -- tsx --watch src/ai/dev.ts",
+  "build": "next build", 
+  "start": "next start", 
+  "lint": "next lint",
+  "typecheck": "tsc --noEmit"
+},
   "dependencies": {
     "@genkit-ai/googleai": "^1.8.0",
     "@genkit-ai/next": "^1.8.0",
